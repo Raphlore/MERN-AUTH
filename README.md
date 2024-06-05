@@ -1,4 +1,4 @@
-# This is a mern application using redux toolkit and bootstrap in the front end and also include the following features;
+# This is a fullstack mern application using redux toolkit and bootstrap in the front end and also include the following features;
 ## Register User
 ## Login user
 ## Update user
